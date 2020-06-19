@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim 
+'''
+
 import sys
 from PyQt5.QtWidgets import QApplication
 from c_login import C_Login 
