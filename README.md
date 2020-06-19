@@ -1,18 +1,19 @@
-# QtDesigner
+# QtDesigner Form Login
 
 ### Requirement (Persyaratan Kebutuhan) :
 
 - Disarankan Menggunakan Python Versi 3.x
 - **PIP** : [QtDesigner](https://pypi.org/project/PyQt5Designer/)
 
-### Hasil Instalasi QTDesigner :
+#### Username = ihzarizkyk
+#### Password = 12354
 
-![logo](https://i.ibb.co/G0TBWyG/qtdesignerapp.png)
+## Login Sukses : 
 
-### Hasil Design Halaman Login :
+![logo](https://i.ibb.co/jR6MFPw/logintest1.png)
 
-![logo](https://i.ibb.co/HGhhH3d/login1.png)
+![logo](https://i.ibb.co/5skyVGv/homelogin1.png)
 
-### Hasil Design Halaman Home :
+## Login Gagal : 
 
-![logo](https://i.ibb.co/Hxbk8Kv/home1.png)
+![logo](https://i.ibb.co/xh7Tns5/logintestfailed1.png)
