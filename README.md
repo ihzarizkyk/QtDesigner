@@ -1,4 +1,4 @@
-# QtDesigner Form Login
+# QtDesigner Form Login LogOut
 
 ### Requirement (Persyaratan Kebutuhan) :
 
