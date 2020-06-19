@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim 
+'''
+
 from PyQt5 import QtWidgets
 from ui_home import Ui_Home 
 import c_login
