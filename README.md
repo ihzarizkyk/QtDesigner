@@ -1,7 +1,5 @@
 # QtDesigner Form Login LogOut
 
----
-
 **Author :** Mochammad Ihza Rizky Karim
 
 ### Requirement (Persyaratan Kebutuhan) :
