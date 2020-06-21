@@ -1,5 +1,9 @@
 # QtDesigner Form Login LogOut
 
+---
+
+**Author :** Mochammad Ihza Rizky Karim
+
 ### Requirement (Persyaratan Kebutuhan) :
 
 - Disarankan Menggunakan Python Versi 3.x
